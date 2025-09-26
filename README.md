@@ -2,7 +2,7 @@
 
 <p align="center">最近更新于：2025年9月18日</p>
 
-随着全球互联网的飞速发展，<a href="https://chinavpns.github.io/">翻墙软件</a>已逐渐成为许多中国网民的必备工具。不管是用谷歌搜资料，还是跟海外朋友聊聊天，甚至是追追国外的剧集和电影，都需要这样一把"钥匙"来打开国际互联网的大门。说到翻墙，免费VPN总是很吸引人的眼球。特别是面对那些价格不菲的付费VPN时，免费的VPN就成了绝大多数预算有限的用户的大救星！
+随着全球互联网的飞速发展，<a href="https://vpnjs.github.io/">翻墙软件</a>已逐渐成为许多中国网民的必备工具。不管是用谷歌搜资料，还是跟海外朋友聊聊天，甚至是追追国外的剧集和电影，都需要这样一把"钥匙"来打开国际互联网的大门。说到翻墙，免费VPN总是很吸引人的眼球。特别是面对那些价格不菲的付费VPN时，免费的VPN就成了绝大多数预算有限的用户的大救星！
 
 如果你身处中国大陆，需要翻墙访问海外网站和应用程序，而且对翻墙软件的稳定性、安全性、速度和客服支持都有较高要求，那么我们推荐你考虑以下几款最好用的大陆免费VPN：
 
@@ -1183,7 +1183,7 @@
 
 对于安卓用户来说，获取免费VPN APK文件主要有两种途径。第一种是通过Google Play商店：打开商店应用，在搜索栏中输入目标VPN名称，从结果列表中找到并点击相应的VPN应用，然后点击"安装"或"下载"按钮开始下载。第二种方法适合无法访问Google Play的用户：直接访问VPN提供商的官方网站，在下载区域找到专为安卓设备提供的APK下载链接，点击后将APK文件下载到你的安卓设备上。如果你想了解更多信息，请查看：<a href="https://github.com/vpnjs/androidvpn.github.io">安卓VPN</a>。
 
-对于iOS用户来说，下载免费VPN客户端需要完成几个额外步骤。由于中国大陆的App Store已移除所有<a href="https://chinavpns.github.io/">翻墙VPN</a>相关应用，iOS用户必须先获取一个非中国区的Apple ID（如美国区、香港区或其他地区账号）。获取海外Apple ID后，在iPhone或iPad上打开"设置"，点击顶部的Apple ID选项，选择"退出登录"退出当前账号。接着打开App Store，输入新获取的海外Apple ID及密码登录。当成功登录后，即可在App Store的搜索栏中输入VPN名称，找到并下载所需的VPN应用。如果你不知道如何获取非中国区的Apple ID帐号，请查看：<a href="https://github.com/vpnjs/iosvpn.github.io">苹果VPN</a>。
+对于iOS用户来说，下载免费VPN客户端需要完成几个额外步骤。由于中国大陆的App Store已移除所有<a href="https://vpnjs.github.io/">翻墙VPN</a>相关应用，iOS用户必须先获取一个非中国区的Apple ID（如美国区、香港区或其他地区账号）。获取海外Apple ID后，在iPhone或iPad上打开"设置"，点击顶部的Apple ID选项，选择"退出登录"退出当前账号。接着打开App Store，输入新获取的海外Apple ID及密码登录。当成功登录后，即可在App Store的搜索栏中输入VPN名称，找到并下载所需的VPN应用。如果你不知道如何获取非中国区的Apple ID帐号，请查看：<a href="https://github.com/vpnjs/iosvpn.github.io">苹果VPN</a>。
 
 ### 免费VPN可以兼容我的设备吗？
 
@@ -1234,7 +1234,7 @@
 
 ## 免费VPN总结：2025年最佳大陆免费VPN推荐
 
-在选择<a href="https://chinavpns.github.io/">科学上网</a>工具时，"免费"这两个字确实很诱人，但实际上背后隐藏了不少坑。不管是翻墙能力、连接速度、稳定性、隐私保护还是可用的服务器数量，免费VPN的实际表现都比不上付费的VPN。特别是在中国，翻墙需求比较特殊，免费VPN基本上派不上用场，既连不上国外网站，也保证不了你的隐私安全。
+在选择<a href="https://vpnjs.github.io/">科学上网</a>工具时，"免费"这两个字确实很诱人，但实际上背后隐藏了不少坑。不管是翻墙能力、连接速度、稳定性、隐私保护还是可用的服务器数量，免费VPN的实际表现都比不上付费的VPN。特别是在中国，翻墙需求比较特殊，免费VPN基本上派不上用场，既连不上国外网站，也保证不了你的隐私安全。
 
 如果你想在中国稳定翻墙，我们建议你选择那些提供免费试用或者退款保证的付费VPN。这些VPN不但功能全面、速度给力，还能轻松绕过地区限制，真正保护你的隐私和安全。
 
@@ -1252,4 +1252,4 @@
 
 ## 免费VPN相关的其他文章：
 
-* <a href="https://chinavpns.github.io/">科学上网指南</a>：详细介绍如何科学上网，并推荐几款目前市面上最出色的<a href="https://chinavpns.github.io/">翻墙VPN</a>和<a href="https://chinavpns.github.io/">翻墙软件</a>。
+* <a href="https://vpnjs.github.io/">科学上网指南</a>：详细介绍如何科学上网，并推荐几款目前市面上最出色的<a href="https://vpnjs.github.io/">翻墙VPN</a>和<a href="https://vpnjs.github.io/">翻墙软件</a>。
