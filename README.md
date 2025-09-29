@@ -103,7 +103,7 @@
 
 ### 大陆免费VPN首选：<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN - 翻墙非常稳定，连接速度业内最快，免费试用30天</a>
 
-![大陆免费VPN首选:ExpressVPN - 翻墙非常稳定，连接速度业内最快，免费试用30天](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/ExpressVPN-FreeVPN.jpg)
+![大陆免费VPN首选:ExpressVPN - 翻墙非常稳定，连接速度业内最快，免费试用30天](https://vpnjs.github.io/vpnassets/img/ExpressVPN-FreeVPN.jpg)
 
 ## 为什么ExpressVPN更适合中国用户（而非“永久免费VPN”）  
 
@@ -156,7 +156,7 @@
 
 ### 大陆免费VPN备选：<a href="https://faststrong.net/?source=github|foreverfree">StrongVPN - 最老牌的VPN，支持支付宝付款，30天免费试用</a>
 
-![大陆免费VPN备选：StrongVPN - 老牌VPN，支持支付宝付款，30天免费试用](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/refs/heads/main/image/StrongVPN-FreeVPN.png)
+![大陆免费VPN备选：StrongVPN - 老牌VPN，支持支付宝付款，30天免费试用](https://vpnjs.github.io/vpnassets/img/StrongVPN-FreeVPN.png)
 
 ## StrongVPN：比“永久免费VPN”更可靠的30天“免费用”选择
 
@@ -196,7 +196,7 @@
 
 ### 大陆免费VPN备选：<a href="https://fastpure.net/?source=github|foreverfree">PureVPN - 老牌VPN，安全且好用，免费使用31天</a>
 
-![大陆免费VPN备选：PureVPN - 老牌VPN，安全且好用，免费使用31天](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/PureVPN-FreeVPN.jpg)
+![大陆免费VPN备选：PureVPN - 老牌VPN，安全且好用，免费使用31天](https://vpnjs.github.io/vpnassets/img/PureVPN-FreeVPN.jpg)
 
 ## PureVPN：比“永久免费VPN”更可控的全场景上网方案
 
@@ -250,7 +250,7 @@
 
 ### 大陆免费VPN替补：<a href="https://fastsurf-shark.com/?source=github|foreverfree">Surfshark - 不限制设备数量，免费使用30天</a>
 
-![大陆免费VPN替补：Surfshark - 不限制设备数量，免费使用30天](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/Surfshark-FreeVPN.jpg)
+![大陆免费VPN替补：Surfshark - 不限制设备数量，免费使用30天](https://vpnjs.github.io/vpnassets/img/Surfshark-FreeVPN.jpg)
 
 ## Surfshark：比“永久免费VPN”更实用的无限设备解决方案
 
@@ -299,7 +299,7 @@
 
 ### 大陆免费VPN替补：<a href="https://fastnord.net/?source=github|foreverfree" rel="nofollow">NordVPN - 功能强大，安全性高，免费使用30天</a>
 
-![大陆免费VPN替补：NordVPN - 功能强大，安全性高，免费使用30天](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/NordVPN-FreeVPN.jpg)
+![大陆免费VPN替补：NordVPN - 功能强大，安全性高，免费使用30天](https://vpnjs.github.io/vpnassets/img/NordVPN-FreeVPN.jpg)
 
 ## NordVPN：比“永久免费VPN”更安全的零风险试用选择
 
@@ -351,7 +351,7 @@
 
 ### 永久免费VPN（一）：Atlas VPN – 无流量和带宽限制
 
-![AtlasVPN Banner：国外永久免费VPN，无流量和带宽限制](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/AtlasVPN-FreeVPN.jpg)
+![AtlasVPN Banner：国外永久免费VPN，无流量和带宽限制](https://vpnjs.github.io/vpnassets/img/AtlasVPN-FreeVPN.jpg)
 
 ## Atlas VPN：比“永久免费VPN”更注重隐私的新锐选择（含免费版说明）
 
@@ -384,7 +384,7 @@
 
 ### 永久免费VPN（二）：Proton VPN – 无流量和带宽限制
 
-![ProtonVPN Banner：国外永久免费VPN，无流量和带宽限制](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/ProtonVPN-FreeVPN.jpg)
+![ProtonVPN Banner：国外永久免费VPN，无流量和带宽限制](https://vpnjs.github.io/vpnassets/img/ProtonVPN-FreeVPN.jpg)
 
 ## Proton VPN：比“永久免费VPN”更可信的瑞士级隐私方案（含免费版说明）
 
@@ -412,7 +412,7 @@
 
 ### 永久免费VPN（三）：Hide.me – 每月10GB免费流量
 
-![HideMe Banner：国外永久免费VPN，每月10GB免费流量](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/HideMe-FreeVPN.jpg)
+![HideMe Banner：国外永久免费VPN，每月10GB免费流量](https://vpnjs.github.io/vpnassets/img/HideMe-FreeVPN.jpg)
 
 ## Hide.me：比“永久免费VPN”更灵活的隐私优先方案（含免费版说明）
 
@@ -441,7 +441,7 @@
 
 ### 永久免费VPN（四）：Hotspot Shield – 每天500MB免费流量
 
-![Hotspotshield Banner：永久免费VPN，每天500MB免费流量](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/Hotspotshield-FreeVPN.jpg)
+![Hotspotshield Banner：永久免费VPN，每天500MB免费流量](https://vpnjs.github.io/vpnassets/img/Hotspotshield-FreeVPN.jpg)
 
 ## Hotspot Shield：比“永久免费VPN”更快的长距离连接方案（含免费版说明）
 
@@ -474,7 +474,7 @@
 
 ### 永久免费VPN（五）：Windscribe – 每月10GB免费流量
 
-![Windscribe Banner：国外永久免费VPN，每月10GB免费流量](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/Windscribe-FreeVPN.jpg)
+![Windscribe Banner：国外永久免费VPN，每月10GB免费流量](https://vpnjs.github.io/vpnassets/img/Windscribe-FreeVPN.jpg)
 
 ## Windscribe：比“永久免费VPN”更实用的隐私强化选择（含免费版说明）
 
@@ -504,7 +504,7 @@
 
 ### 永久免费VPN（六）：TunnelBear – 每月仅500MB免费流量
 
-![TunnelBear Banner：国外永久免费VPN，每月仅500MB免费流量](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/TunnelBear-FreeVPN.jpg)
+![TunnelBear Banner：国外永久免费VPN，每月仅500MB免费流量](https://vpnjs.github.io/vpnassets/img/TunnelBear-FreeVPN.jpg)
 
 ## TunnelBear：比“永久免费VPN”更易上手的入门之选（含免费版说明）
 
@@ -533,7 +533,7 @@
 
 ### 永久免费VPN（七）：PrivadoVPN – 每月10GB免费流量
 
-![PrivadoVPN Banner：国外永久免费VPN，每月10GB免费流量](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/PrivadoVPN-FreeVPN.jpg)
+![PrivadoVPN Banner：国外永久免费VPN，每月10GB免费流量](https://vpnjs.github.io/vpnassets/img/PrivadoVPN-FreeVPN.jpg)
 
 ## PrivadoVPN：比“永久免费VPN”更可信的瑞士级隐私方案（含免费版说明）
 
@@ -565,7 +565,7 @@
 
 ### 永久免费VPN（八）：VPN Gate – 无限流量，无限带宽
 
-![VPN Gate Banner：国外永久免费VPN，无限流量，无限带宽](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/VPN%20Gate-FreeVPN.jpg)
+![VPN Gate Banner：国外永久免费VPN，无限流量，无限带宽](https://vpnjs.github.io/vpnassets/img/VPN%20Gate-FreeVPN.jpg)
 
 ## VPN Gate：开源志愿者网络，比“永久免费VPN”更透明的免费方案（含使用要点）
 
@@ -596,7 +596,7 @@
 
 ### 永久免费VPN（九）：ZoogVPN – 每月10GB免费流量
 
-![ZoogVPN Banner：国外永久免费VPN，每月10GB免费流量](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/ZoogVPN-FreeVPN.jpg)
+![ZoogVPN Banner：国外永久免费VPN，每月10GB免费流量](https://vpnjs.github.io/vpnassets/img/ZoogVPN-FreeVPN.jpg)
 
 ## ZoogVPN：比“永久免费VPN”更务实的免费入门与付费进阶（含免费版说明）
 
@@ -630,7 +630,7 @@
 
 ### 永久免费VPN（十）：蓝灯VPN – 无限流量，无限带宽
 
-![LanternVPN Banner：永久免费VPN，无限流量，无限带宽](https://raw.githubusercontent.com/chinavpns/freevpn.github.io/main/image/Lantern-FreeVPN.jpg)
+![LanternVPN Banner：永久免费VPN，无限流量，无限带宽](https://vpnjs.github.io/vpnassets/img/Lantern-FreeVPN.jpg)
 
 ## 蓝灯（Lantern）：曾以“永久免费VPN”走红，但现已难以在中国稳定使用（含免费版说明）
 
