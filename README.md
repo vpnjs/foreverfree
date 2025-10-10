@@ -150,7 +150,7 @@
 
 最后需要提醒大家的是，ExpressVPN提供30天无理由退款保证，你可以在这段时间内尽情使用它的所有功能和服务，没有任何流量或带宽限制。不过要记住，如果想免费体验30天，必须在其退款保证期快到期时，通过在线客服申请全额退款才行。
 
-**<p align="center"><a href="https://fastexp.net/?source=github|foreverfree">立即开始尝试ExpressVPN（30天免费）</a></p>**
+**<a href="https://fastexp.net/?source=github|foreverfree">立即开始尝试ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -190,7 +190,7 @@
 
 记住，要实现完全免费使用StrongVPN 30天，关键是在退款期限到期前联系客服申请全额退款。这样你就能免费享受到这款专业级VPN的所有高级功能，体验真正的网络自由。
 
-**<p align="center"><a href="https://faststrong.net/?source=github|foreverfree">立即开始尝试StrongVPN（30天免费）</a></p>**
+**<a href="https://faststrong.net/?source=github|foreverfree">立即开始尝试StrongVPN（30天免费）</a>**
 
 ****
 
@@ -244,7 +244,7 @@
 
 值得一提的是，PureVPN提供31天无理由退款保证，你可以整整一个月尽情使用它的所有功能和服务，没有任何流量或带宽限制。有了这31天无风险退款保证，你完全可以零经济风险地体验全部服务，不管是随便浏览网页、解锁全球内容，还是保护你的数据隐私，PureVPN都能给你提供一流的VPN体验。
 
-**<p align="center"><a href="https://fastpure.net/?source=github|foreverfree">立即开始尝试PureVPN（31天免费）</a></p>**
+**<a href="https://fastpure.net/?source=github|foreverfree">立即开始尝试PureVPN（31天免费）</a>**
 
 ****
 
@@ -293,7 +293,7 @@
 
 总的来说，Surfshark凭借其无限设备连接、强大的隐私保护和庞大的服务器网络，成为2025年最佳可在中国大陆免费使用的VPN之一。再加上30天无风险退款保证，用户可以在不承担任何风险的情况下免费体验Surfshark的所有功能，无论是家庭使用还是个人多设备管理，Surfshark都能满足你的各种需求。
 
-**<p align="center"><a href="https://fastsurf-shark.com/?source=github|foreverfree">立即开始尝试Surfshark（30天免费）</a></p>**
+**<a href="https://fastsurf-shark.com/?source=github|foreverfree">立即开始尝试Surfshark（30天免费）</a>**
 
 ****
 
@@ -341,7 +341,7 @@
 
 总体来说，NordVPN凭借其强大的功能、超高的安全性和为期31天的无理由退款保证，成为最佳可在中国大陆免费使用的VPN之一。在这31天退款保证期内，你可以完全不受任何流量和带宽限制，自由使用NordVPN的所有高级功能。
 
-**<p align="center"><a href="https://fastnord.net/?source=github|foreverfree" rel="nofollow">立即开始尝试NordVPN（30天免费）</a></p>**
+**<a href="https://fastnord.net/?source=github|foreverfree" rel="nofollow">立即开始尝试NordVPN（30天免费）</a>**
 
 ****
 
@@ -378,7 +378,7 @@
 > **结论**：如果你在寻找比“**永久免费VPN**”更可信、且更注重隐私与安全的方案，Atlas VPN 以 **SafeSwap、强加密、泄露监测、Kill Switch** 等实用特性，提供了从免费入门到付费进阶的清晰路径——入门可用、进阶更稳。
 
 
-**<p align="center">注意：Atlas VPN无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a></p>**
+**注意：Atlas VPN无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -406,7 +406,7 @@
 
 > **结论**：如果你的核心诉求是比“**永久免费VPN**”更可信的隐私与合规保障，Proton VPN 以 **瑞士法域 + Secure Core + Forward Secrecy + Tor over VPN** 提供从免费入门到长期进阶的清晰路径：入门能用，进阶更稳更安全。
 
-**<p align="center">注意：Proton VPN无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a></p>**
+**注意：Proton VPN无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -435,7 +435,7 @@
 
 > **结论**：若你追求比“**永久免费VPN**”更可靠的隐私与可用性，Hide.me 以**多协议、Stealth Guard、Kill Switch、分离隧道**等实用功能，提供从免费入门到付费进阶的明晰路径：入门可用，进阶更稳更安全。
 
-**<p align="center">注意：Hide.me无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a></p>**
+**注意：Hide.me无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -468,7 +468,7 @@
 
 > **结论**：如果你追求比“**永久免费VPN**”更可靠的速度与稳定性，Hotspot Shield 以 **Catapult Hydra**、广覆盖、Kill Switch 与安全加固功能，提供从免费入门到付费进阶的清晰路径：入门可试，长期更稳更快。
 
-**<p align="center">注意：Hotspot Shield无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a></p>**
+**注意：Hotspot Shield无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -498,7 +498,7 @@
 
 > **结论**：如果你在寻找比“**永久免费VPN**”更可信的隐私与可用性，Windscribe 以 **R.O.B.E.R.T.、Double Hop、分离隧道** 等实用功能，实现更干净、更安全、更可控的日常上网；免费入门可用，付费进阶更稳更快。
 
-**<p align="center">注意：Windscribe无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a></p>**
+**注意：Windscribe无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -527,7 +527,7 @@
 
 > **结论**：如果你的诉求是“比**永久免费VPN**更省心、更可信的日常隐私工具”，TunnelBear 以**易用界面、GhostBear 伪装、公开安全审计**与多设备支持，提供了从**免费入门到长期稳定**的清晰路径：入门可试，进阶更稳更安心。
 
-**<p align="center">注意：TunnelBear无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a></p>**
+**注意：TunnelBear无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -559,7 +559,7 @@
 
 > **结论**：如果你在寻找比“**永久免费VPN**”更可信的隐私与可用性，PrivadoVPN 以**瑞士法域、零日志、强加密、分离隧道与 P2P 优化**提供从免费入门到长期进阶的清晰路径：入门可用，进阶更稳更安全。
 
-**<p align="center">注意：PrivadoVPN无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a></p>**
+**注意：PrivadoVPN无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -590,7 +590,7 @@
 
 > **结论**：如果你的目标是“比不透明的**永久免费VPN**更可信的免费通道”，VPN Gate 以**开源、免费、去中心化**的特性，提供一条**零成本**的可用路径；但其**隐私与稳定性不可完全保证**，更适合作为临时或备用方案。对长期、稳定、合规的需求，仍建议将其与**经审计、支持退款保证**的商用 VPN 搭配评估与使用。
 
-**<p align="center">注意：VPN Gate无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a></p>**
+**注意：VPN Gate无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -624,7 +624,7 @@
 
 > **结论**：如果你的目标是比“**永久免费VPN**”更可信、可持续的日常方案，ZoogVPN 以**希腊法域、强加密、流媒体优化、隐身模式与 Kill Switch**等实用特性，提供从**免费入门到长期进阶**的清晰路径：入门可用，进阶更稳更安全。
 
-**<p align="center">注意：ZoogVPN无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a></p>**
+**注意：ZoogVPN无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -653,7 +653,7 @@
 
 > **结论**：蓝灯曾以“**永久免费VPN**”标签与易用性走红，但**当前在中国大陆的稳定性与可用性已大幅削弱**。免费版的流量、时长与速度限制也难以满足重度使用需求。对于追求长期稳定和隐私合规的用户，建议优先评估**更透明、可验证且支持退款保证**的替代方案。
 
-**<p align="center">注意：蓝灯VPN无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a></p>**
+**注意：蓝灯VPN无法在中国使用，请优先选择<a href="https://fastexp.net/?source=github|foreverfree">ExpressVPN（30天免费）</a>**
 
 ****
 
@@ -716,7 +716,7 @@
 > **结论**：尽管快连VPN在易用性与平台覆盖上有可取之处，但其在**隐私透明度、翻墙稳定性与关键安全功能**上的短板，尤其对中国大陆用户而言，难以承担长期主力角色。与其选择不透明的“**永久免费VPN**”，更建议优先考虑**策略公开、经第三方审计、并提供 30 天退款保证**的成熟 VPN 服务。
 
 
-<p align="center"><a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a></p>
+<a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a>
 
 ### 3. 蚂蚁VPN
 
@@ -800,7 +800,7 @@
 > **结论**：尽管佛跳墙VPN以“**永久免费VPN**”与多平台兼容吸引入门用户，但其在**隐私透明度、速度稳定性与防火墙绕过能力**上的短板，使其不适合长期或重度使用。更稳妥的做法是优先考虑**策略透明、经独立审计、并提供 30 天退款保证**的成熟商用 VPN；将此类“永久免费VPN”仅作**临时/备选**更为稳妥。
 
 
-<p align="center"><a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a></p>
+<a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a>
 
 ### 6. Hola VPN
 
@@ -862,7 +862,7 @@
 
 > 面向“**永久免费VPN**”的诉求，如果只是偶尔在公共 Wi-Fi 下做**基础防护**，Phone Guardian 够用；若追求**更强隐私、稳定速度与流媒体解锁**，应考虑策略透明、功能完善的其他方案。
 
-<p align="center"><a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a></p>
+<a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a>
 
 ### 9. AceVPN
 
@@ -940,7 +940,7 @@
 - **客服响应慢**：出现问题时难以及时获得帮助。
 
 
-<p align="center"><a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a></p>
+<a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a>
 
 ### 12. TurboVPN
 
@@ -1001,7 +1001,7 @@
 
 > 适合偶尔出行或临时加密上网的轻量场景；若需要长期、稳定、带宽更充足的“**永久免费VPN**”替代思路，可考虑带 **30 天退款保证** 的成熟服务进行阶段性“零成本试用”。
 
-<p align="center"><a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a></p>
+<a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a>
 
 ### 15. CrossVPN
 
@@ -1060,7 +1060,7 @@
 - **速度与稳定性一般**：免费节点在高峰期易**降速/高延迟/断连**。  
 - **流媒体解锁不佳**：对 **Netflix** 等平台支持度低，高清观影难以保证。
 
-<p align="center"><a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a></p>
+<a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a>
 
 ## 关于免费VPN的常见问题
 
@@ -1108,7 +1108,7 @@
 另外，免费VPN通常没有专业的客户支持团队，用户遇到问题时往往无法得到及时帮助。一些小型免费VPN服务甚至可能突然停止运营，让用户陷入困境。
 
 
-<p align="center"><a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a></p>
+<a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a>
 
 ## 免费VPN可以在中国使用吗？
 
@@ -1139,7 +1139,7 @@
 
 > **总括**：不把“**永久免费**”当长期方案。若你追求**稳定、高速与可预期隐私**，选择合规付费品牌更靠谱；不想立刻付费，可先用 **退款保证** 路线“限时免费”深测后再决定。
 
-<p align="center"><a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a></p>
+<a href="https://github.com/vpnjs/freevpn.github.io?tab=readme-ov-file#2025%E5%B9%B4%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">立即查看安全有好用的中国大陆免费VPN</a>
 
 ### 如何挑选一个可靠的免费VPN？
 
